@@ -1,4 +1,4 @@
-var supertest = require("supertest");
+var supertest = require("supertestt");
 var should = require("should");
 
 // This agent refers to PORT where the program is running.
